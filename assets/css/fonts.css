@@ -2,3 +2,15 @@
   font-family: 'Kyiv Type Sans';
   src: url('~/assets/fonts/KyivTypeSans-VarGX.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'SF Compact';
+  src: url('~/assets/fonts/SF-Compact.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF compact';
+  src: url('~/assets/fonts/SF-Compact-Italic.ttf') format('truetype');
+  font-style: italic;
+}

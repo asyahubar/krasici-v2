@@ -2,6 +2,10 @@
 export default defineNuxtConfig({
   ssr: true,
 
+  css: [
+    '@/assets/css/fonts.css'
+  ],
+
   modules: [
     "@nuxtjs/i18n",
     "@nuxtjs/tailwindcss",
