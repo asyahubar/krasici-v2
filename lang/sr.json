@@ -18,6 +18,20 @@
 		"sub",
 		"ned"
 	],
+	"monthTitles": [
+		"Januar",
+		"Februar",
+		"Mart",
+		"April",
+		"Maj",
+		"Jun",
+		"Jul",
+		"Avgust",
+		"Septembar",
+		"Oktobar",
+		"Novembar",
+		"Decembar"
+	],
 	"intro": {
 		"header": "ugodan apartman u krašićima",
 		"paragraph": "Apartman se nalazi na samo 500 koraka od kristalno čistog mora vidljivog s prostrane terase. Stan je udoban i potpuno opremljen. Sve je uključeno, tiho okruženje, čist vazduh, pejzaži savršeni za fotografisanje. Čak i ako ste prvi put u Crnoj Gori, pružićemo vam sve informacije koje će vam zatrebati."

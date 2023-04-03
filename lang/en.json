@@ -18,6 +18,20 @@
 		"sat",
 		"sun"
 	],
+	"monthTitles": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
 	"intro": {
 		"header": "cozy apartment in kotor bay awaits to accommodate your peaceful vacation",
 		"paragraph": "Apartment is located only 500 steps away from a clystal clear sea visible from an ample terrace. Apartment is cozy yet fully equipped. All included: quiet surroundings, clear air, scenery perfect for photography. Even if it’s your first time in Montenegro, we’ll provide you with all the information you’ll need. "
